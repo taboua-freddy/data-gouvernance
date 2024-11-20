@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (msc-data-gouv)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.10 (sftp://tabouaf@35.188.183.163:22/home/tabouaf/msc-data-gouv/venv/bin/python3)" project-jdk-type="Python SDK" />
+</project>

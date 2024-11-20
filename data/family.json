@@ -1,0 +1,29 @@
+{
+    "site": [
+      "owa_site",
+      "owa_host",
+      "owa_referer",
+      "owa_document"
+    ],
+    "user": [
+      "owa_user",
+      "owa_visitor",
+      "owa_session",
+      "owa_queue_item"
+    ],
+    "location": [
+      "owa_location_dim",
+      "owa_source_dim"
+    ],
+    "event": [
+      "owa_action_fact",
+      "owa_click",
+      "owa_request",
+      "owa_search_term_dim"
+    ],
+    "configuration": [
+      "owa_configuration",
+      "owa_ua",
+      "owa_os"
+    ]
+  }
